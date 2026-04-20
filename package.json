@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-test-deployment",
+  "version": "1.0.0",
+  "description": "OpenClaw deployment test for Digillian LLC",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
